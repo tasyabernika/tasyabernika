@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tasya</h1>
-<h3 align="center">hallo everyone</h3>
+<h3 align="center">Hallo Hallo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasyabernika&label=Profile%20views&color=0e75b6&style=flat" alt="tasyabernika" /> </p>
 
